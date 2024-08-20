@@ -1,3 +1,4 @@
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 #!/bin/bash
 #========================================================================================================================
 # https://github.com/ophub/amlogic-s9xxx-openwrt
